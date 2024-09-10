@@ -18,5 +18,5 @@ Predicting the Mohs hardness of minerals based on their properties.
 - **Test Data:** Used to evaluate the performance of the model.
 - **Evaluation Metric:** Median Absolute Error.
 
-Code in regression.ipynb.
+Code in regression.ipynb. <br />
 87th percentile score.
